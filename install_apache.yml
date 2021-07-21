@@ -1,6 +1,6 @@
 ---
 
-- hosts: all
+- hosts: Linux_Servers
   become: true
   tasks:
 
